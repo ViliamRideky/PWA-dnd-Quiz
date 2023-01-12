@@ -1,0 +1,254 @@
+{
+    "level1": [
+        {
+            "problem": "Hypertext Markup Language",
+            "solution": "HTML",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "Cascading Style Sheets",
+            "solution": "CSS",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "Javascript",
+            "solution": "JS",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "eXtensible Hypertext Markup Language",
+            "solution": "XHTML",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "Syntactically Awesome Style Sheets",
+            "solution": "SASS",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "Joint Photographic Experts Group",
+            "solution": "JPEG",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "Portable Network Graphics",
+            "solution": "PNG",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "Graphics Interchange Format",
+            "solution": "GIF",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "Bitmap Image file",
+            "solution": "BMP",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "Scalable Vector Graphics",
+            "solution": "SVG",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "nadpisy",
+            "solution": "header",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "navigácia",
+            "solution": "nav",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "časti dokumentu",
+            "solution": "section",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "obsahové útvary",
+            "solution": "article",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "poznámka k textu",
+            "solution": "aside",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "vonkajší okraj",
+            "solution": "margin",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "vnutorný okraj",
+            "solution": "padding",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "hranica bunky",
+            "solution": "border",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "farba hranice bunky",
+            "solution": "border-color",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "šírka hranice bunky",
+            "solution": "border-width",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "spôsob zobrazenia cursoru",
+            "solution": "cursor",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "spôsob zobrazenia prvku",
+            "solution": "display",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "nastavenie spôsobu obtekania",
+            "solution": "float",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "nastevenie pozície prvku",
+            "solution": "position",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "zobrazenie/skrytie prvku",
+            "solution": "visibility",
+            "difficulty": "ľahká obtiažnosť"
+        },
+        {
+            "problem": "JavaScript Object Notation",
+            "solution": "JSON",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "eXtensible Markup Language",
+            "solution": "XML",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "Yet Another Markup Language",
+            "solution": "YAML",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "Comma-separated values",
+            "solution": "CSV",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "HashiCorp Configuration Language",
+            "solution": "HCL",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "World Wide Web",
+            "solution": "WWW",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "Hypertext Transfer Protocol",
+            "solution": "HTTP",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "Hypertext Transfer Protocol Secure",
+            "solution": "HTTPS",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "Hypertext Access",
+            "solution": "Htaccess",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "World Wide Web Consortium",
+            "solution": "W3C",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "Document Object Model",
+            "solution": "DOM",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "Document Type Definition ",
+            "solution": "DTD",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "JavaScript + HTML, DOM a CSS",
+            "solution": "DHTML",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "Interakcia medzi JS a HTML",
+            "solution": "jQuery",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "Asynchronous JavaScript and XML",
+            "solution": "AJAX",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "po kliknuti myšou na prvok",
+            "solution": "onClick",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "po načítaní dokumentu",
+            "solution": "onLoad",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "pri odosielaní formuláru",
+            "solution": "onSubmit",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "pri mazaní formuláru",
+            "solution": "onReset",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "po označení textu vo vstupnom poli",
+            "solution": "onSelect",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "číslovaný zoznam",
+            "solution": "ol",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "nečíslovaný zoznam",
+            "solution": "ul",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "položky v zozname",
+            "solution": "li",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "definičný zoznam",
+            "solution": "dl",
+            "difficulty": "ťažká obtiažnosť"
+        },
+        {
+            "problem": "zavedenie pojmu",
+            "solution": "dt",
+            "difficulty": "ťažká obtiažnosť"
+        }
+    ]
+}

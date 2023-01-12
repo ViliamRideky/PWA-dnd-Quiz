@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="sk">
+
+<head>
+
+    <title>WEBTECH 1 - QUIZ</title>
+    <link rel="icon" type="image/x-icon" href="logo.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#000000" />
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="logo.png">
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
+
+
+</head>
+
+<body>
+
+    <h1>WEBTECH 1 - QUIZ</h1>
+
+    <button id="toggle" class="desc-button">Popis a návod hry</button>
+    <div class="desc" id="third">
+        <span>WEBTECH 1 - Quiz</span> je veľmi jednoduchá hra založená na princípe <span> Drag and Drop</span> Pod
+        týmto
+        si
+        môžeme predstaviť doslovný preklad <span> Potiahni a Pusti </span> Na začiatku sa nám vygenerujú otázky a
+        intuitívne spájame, čo k sebe patrí.Otázky začínajú s ľahkou obtiažnosťou, ale postupným hraním sa vieme
+        dopracovať k otázkam s ťažkou obtiažnosťou
+    </div>
+
+    <div>
+        <h2 id="actualLevel"></h2>
+    </div>
+    <div id="content" class="contentos">
+        <div class="row">
+            <div class="col">
+                <div id="cardPile"> </div>
+            </div>
+            <div class="col">
+                <div id="cardSlots"> </div>
+            </div>
+        </div>
+
+        <div id="successMessage">
+            <h4 id="successMessageInner">Gratulujeme!</h4>
+            <button id="successMessageBtn" onclick="init()">Dalsi level</button>
+        </div>
+
+
+    </div>
+    <script src="script.js"></script>
+</body>
+
+
+
+</html>
